@@ -55,6 +55,12 @@ a.big-btn:hover, a.sm-btn:hover {
 	cursor: pointer;
 }
 
+.margintop {
+	margin-top: 20px;
+}
+.marginbottom {
+	margin-bottom: 20px;
+}
 .logo {
 	margin-bottom: 40px;
 }
@@ -200,7 +206,7 @@ ul.logos-container {
 }
 ul.logos-container li {
 	display: inline-block;
-	margin: 20px 10px;
+	margin: 20px 8px;
 }
 ul.logos-container li img {
 	max-height: 60px;
